@@ -7,4 +7,4 @@ nav_order: 4
 cv_pdf: cv.pdf
 ---
 
-Find my CV (here)[csohyue.github.io/assets/pdf/yue_cv.pdf] (updated January 2024).
+Find my CV (here)[csohyue.github.io/assets/pdf/yue_cv.pdf] (updated May 2025).
