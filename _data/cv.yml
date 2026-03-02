@@ -54,3 +54,42 @@
       year: 2019
       status: "Conference Proceeding"
       
+- title: Selected Presentations
+  type: list
+  contents:
+    - title: "Regularization and probability-matching as generalization"
+      event: BUCLD 50
+      location: Boston, MA
+      year: 2025
+      type: "Poster Presentation"
+      slides_url: "https://csohyue.github.io/assets/pdf/yue_bucld2025.pdf"
+    - title: "Productively Unifying Exception and Variation"
+      event: NELS 56
+      location: New York, NY
+      year: 2025
+      type: "Oral Presentation"
+      slides_url: "https://csohyue.github.io/assets/pdf/Yue_NELS56.pdf"
+    - title: 
+      event: 
+      location: 
+      year: 
+      type: 
+      slides_url: 
+    - title: 
+      event: 
+      location: 
+      year: 
+      type: 
+      slides_url: 
+    - title: 
+      event: 
+      location: 
+      year: 
+      type: 
+      slides_url: 
+    - title: 
+      event: 
+      location: 
+      year: 
+      type: 
+      slides_url: 
