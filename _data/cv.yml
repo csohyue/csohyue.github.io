@@ -25,71 +25,24 @@
       value: Syntax, Field work, Corpus Methodologies
 
 - title: Publications
-  type: publication_list
+  type: list
   contents:
-    - title: "The MIGHT of Memory: How Memory Constrains Cross-Situational Learning"
-      authors: "<b>Christine Yue</b>, Alexander LaTourrette, John Trueswell, & Charles Yang"
-      status: "Submitted"
-    - title: "Case on embedded subjects in Sakha."
-      authors: "<b>Christine Yue</b>"
-      status: "In prep"
-    - title: "Is it a bat or a thing? Referential contrast in the learning of homophones and superordinate terms"
-      authors: "Daoxin Li, <b>Christine Yue</b>, & John Trueswell"
-      journal: "Proceedings of the 46th Annual Meeting of the Cognitive Science Society"
-      year: 2024
-      status: "Conference Proceeding"
-    - title: "Memory as a computational constraint in cross-situational word learning"
-      authors: "<b>Christine Yue</b>, Alexander LaTourrette, Charles Yang, & John Trueswell"
-      journal: "Proceedings of the 45th Annual Meeting of the Cognitive Science Society"
-      year: 2023
-      status: "Conference Proceeding"
-    - title: "Memory Constraints on Cross-Situational Word Learning"
-      authors: "<b>Christine Yue</b> & Charles Yang"
-      journal: "Proceedings of the 43rd Annual Meeting of the Cognitive Science Society"
-      year: 2021
-      status: "Conference Proceeding"
-    - title: "Toward a feature-cue-based analysis of modification patterns in speech: Alignment of canonical and realized acoustic cue labels"
-      authors: "<b>Christine Yue</b>, Tanya Talkar, Jeung-Yoon Choi, & Stefanie Shattuck-Hufnagel"
-      journal: "Proceedings of the Meetings on Acoustics 178"
-      year: 2019
-      status: "Conference Proceeding"
+    - '<b>Christine Soh Yue</b>, Alexander LaTourrette, John Trueswell, & Charles Yang (Submitted). "The MIGHT of Memory: How Memory Constrains Cross-Situational Learning."'
+    - '<b>Christine Soh Yue</b>, Charles Yang, & Kathryn Schuler (In prep). ""'
+    - '<b>Christine Soh Yue</b> (In prep). "Case on embedded subjects in Sakha."'
+    - 'Daoxin Li, <b>Christine Soh Yue</b>, & John Trueswell (2024) "Is it a bat or a thing? Referential contrast in the learning of homophones and superordinate terms." In <i>Proceedings of the 46th Annual Meeting of the Cognitive Science Society</i>.'
+    - '<b>Christine Soh Yue</b>, Alexander LaTourrette, Charles Yang, & John Trueswell (2023). "Memory as a computational constraint in cross-situational word learning" In <i>Proceedings of the 45th Annual Meeting of the Cognitive Science Society</i>.'
+    - '<b>Christine Soh</b> & Charles Yang (2021). "Memory Constraints on Cross-Situational Word Learning." In <i>Proceedings of the 43rd Annual Meeting of the Cognitive Science Society</i>.'
+    - '<b>Christine Soh</b>, Tanya Talkar, Jeung-Yoon Choi, & Stefanie Shattuck-Hufnagel (2019). "Toward a feature-cue-based analysis of modification patterns in speech: Alignment of canonical and realized acoustic cue labels." In <i>Proceedings of the Meetings on Acoustics 178</i>'
       
 - title: Selected Presentations
   type: list
   contents:
-    - title: "Regularization and probability-matching as generalization"
-      event: BUCLD 50
-      location: Boston, MA
-      year: 2025
-      type: "Poster Presentation"
-      slides_url: "https://csohyue.github.io/assets/pdf/yue_bucld2025.pdf"
-    - title: "Productively Unifying Exception and Variation"
-      event: NELS 56
-      location: New York, NY
-      year: 2025
-      type: "Oral Presentation"
-      slides_url: "https://csohyue.github.io/assets/pdf/Yue_NELS56.pdf"
-    - title: 
-      event: 
-      location: 
-      year: 
-      type: 
-      slides_url: 
-    - title: 
-      event: 
-      location: 
-      year: 
-      type: 
-      slides_url: 
-    - title: 
-      event: 
-      location: 
-      year: 
-      type: 
-      slides_url: 
-    - title: 
-      event: 
-      location: 
-      year: 
-      type: 
-      slides_url: 
+    - '<b>Christine Soh Yue</b>, Charles Yang, & Kathryn Schuler (2025). "Regularization and probability-matching as generalization." Poster at BUCLD 50, Boston, MA, November 6-9, 2025.'
+    - '<b>Christine Soh Yue</b>, Charles Yang, & Kathryn Schuler (2025). "Productively Unifying Exception and Variation." Talk at NELS 56, New York, NY, October 17-19, 2025.'
+    - '<b>Christine Soh Yue</b>, Alexander LaTourrette, Charles Yang, & John Trueswell (2023). "When things go missing: Referent absence in noun cross situational word learning." Poster at the Words in the World Conference, Virtual, December 1-2, 2023.'
+    - '<b>Christine Soh Yue</b>, Alexander Latourrette, Charles Yang, and John Trueswell (2023). "Memory as a computational constraint in cross-situational word learning." Poster at the Cognitive Science Society Conference, Sydney, Australia, July 26-29, 2023.'
+    - '<b>Christine Soh Yue</b> (2023) "Case in Sakha adjunct clause constructions: A functional head account." Talk at Linguistic Society of America Annual Meeting 98, Denver, CO, January 5-8, 2023.' 
+    - '<b>Christine Soh Yue</b> (2023) "Sakha ``say'' complementization: A Case-by-Agree approach." Talk at North East Linguistics Society 53, Göttingen, Germany, January 14-16, 2023.' 
+    - '<b>Christine Soh Yue</b> & Charles Yang (2021). "Memory Constraints on Cross-Situational Word Learning." Talk at the Cognitive Science Society Conference, Vienna, Austria, July 26-29, 2021.'
+    - '<b>Christine Soh</b>, Tanya Talkar, Jeung-Yoon Choi, & Stefanie Shattuck-Hufnagel (2019). "Alignment of Canonical and Realized Acoustic Cue Labels for Modification Patterns in Speech Analysis." Poster at the Acoustical Society of America Annual Meeting (ASA 178), San Diego, CA, Dec 2-6, 2019.'
