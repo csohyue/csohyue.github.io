@@ -12,4 +12,45 @@
     - title: PhD Candidate
       institution: University of Pennsylvania, Philadelphia, PA
       year: 2020-Present Day
+    - title: B.S. in Linguistics (24-2) and Computer Science (6-3)
+      institution: Massachusetts Institute of Technology, Cambridge, MA
+      year: 2016-2020
 
+- title: Research Areas
+  type: map
+  contents:
+    - name: Primary
+      value: Language Acquisition, Computational Modeling, Psycholinguistics, Artificial Language Learning
+    - name: Secondary
+      value: Syntax, Field work, Corpus Methodologies
+
+- title: Publications
+  type: publication_list
+  contents:
+    - title: "The MIGHT of Memory: How Memory Constrains Cross-Situational Learning"
+      authors: "<b>Christine Yue</b>, Alexander LaTourrette, John Trueswell, & Charles Yang"
+      status: "Submitted"
+    - title: "Case on embedded subjects in Sakha."
+      authors: "<b>Christine Yue</b>"
+      status: "In prep"
+    - title: "Is it a bat or a thing? Referential contrast in the learning of homophones and superordinate terms"
+      authors: "Daoxin Li, <b>Christine Yue</b>, & John Trueswell"
+      journal: "Proceedings of the 46th Annual Meeting of the Cognitive Science Society"
+      year: 2024
+      status: "Conference Proceeding"
+    - title: "Memory as a computational constraint in cross-situational word learning"
+      authors: "<b>Christine Yue</b>, Alexander LaTourrette, Charles Yang, & John Trueswell"
+      journal: "Proceedings of the 45th Annual Meeting of the Cognitive Science Society"
+      year: 2023
+      status: "Conference Proceeding"
+    - title: "Memory Constraints on Cross-Situational Word Learning"
+      authors: "<b>Christine Yue</b> & Charles Yang"
+      journal: "Proceedings of the 43rd Annual Meeting of the Cognitive Science Society"
+      year: 2021
+      status: "Conference Proceeding"
+    - title: "Toward a feature-cue-based analysis of modification patterns in speech: Alignment of canonical and realized acoustic cue labels"
+      authors: "<b>Christine Yue</b>, Tanya Talkar, Jeung-Yoon Choi, & Stefanie Shattuck-Hufnagel"
+      journal: "Proceedings of the Meetings on Acoustics 178"
+      year: 2019
+      status: "Conference Proceeding"
+      
